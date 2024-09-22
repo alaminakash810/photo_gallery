@@ -94,7 +94,7 @@ section {
 /* Home section */
 .home {
     display: flex;
-    background: linear-gradient(rgba(0, 0, 256, 0.5), rgba(0, 0, 256, 0.5)), url(banner.png) no-repeat center;
+    background: linear-gradient(rgba(0, 0, 256, 0.5), rgba(0, 0, 256, 0.5)), url(\pic\banner.png) no-repeat center;
     height: 100vh;
     min-height: 500px;
     font-family: 'Pair Play', serif;
