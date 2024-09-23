@@ -94,7 +94,11 @@ section {
 /* Home section */
 .home {
     display: flex;
-    background: linear-gradient(rgba(0, 0, 256, 0.5), rgba(0, 0, 256, 0.5)), url(\pic\banner.png) no-repeat center;
+    background-image: url("https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/355342327_4097162187176201_5063572595406826075_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=pPNsQLaDwMkQ7kNvgEKrzda&_nc_ht=scontent.fdac174-1.fna&_nc_gid=A_P79HYkffTeBOPm4QmFSRX&oh=00_AYBueb0Ky9XkJzYIjGewbhzGp4V2R-epG7CbvMslOtTFXw&oe=66F7579F");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+    background: linear-gradient(rgba(0, 0, 256, 0.5), rgba(0, 0, 256, 0.5)), ;
     height: 100vh;
     min-height: 500px;
     font-family: 'Pair Play', serif;
